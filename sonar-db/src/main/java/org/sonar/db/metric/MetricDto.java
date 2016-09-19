@@ -206,4 +206,5 @@ public class MetricDto {
     this.decimalScale = i;
     return this;
   }
+
 }
